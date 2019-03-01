@@ -1,5 +1,5 @@
 # TFT-ML-Week1
-TFT Machine Learning Week2 - linear refression   
+TFT Machine Learning Week2 - linear regression   
 
 * [数据来自这里](https://www.kaggle.com/mohansacharya/graduate-admissions/)   
 * 推荐学习材料  
