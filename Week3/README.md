@@ -1,4 +1,5 @@
-# TFT-ML-Week1
+# TFT-ML-Week3  
+
 TFT Machine Learning Week3 - Logistic Regression   
 
 * 推荐学习材料  
